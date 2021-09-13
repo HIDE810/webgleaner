@@ -2,8 +2,12 @@ body {
     text-align: center;
 }
 
+h1 {
+    margin: 10px auto;
+}
+
 #overview {
-    margin: 30px auto;
+    margin: 10px auto 20px;
     line-height: 80%;
 }
 
