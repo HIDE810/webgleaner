@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+}
+
+#overview {
+    margin: 30px auto;
+    line-height: 80%;
+}
+
+#you {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: greenyellow;
+}
+
+#enemy {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: red;
+}
+
+#score {
+    font-size: 2em;
+    margin: 10px auto;
+}
+
+#gameset {
+    font-size: 1.5em;
+    margin: 10px auto;
+}
